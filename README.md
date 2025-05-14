@@ -1,21 +1,15 @@
-## Hey! I'm Charlie 🙋‍♀️
+## Hey! I'm Charlotte 🙋‍♀️
 
-I love data, open science and reproducible data pipelines. A little bit too much.
+![](gpcds-wide-banner.png)
 
-> I run Graph | Plot | Chart | Data Story
-
-
-<!--
-**charliejhadley/charliejhadley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on a new project [Graph | Plot | Chart | Data Story](www.gpcds.com)
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: hello@gpcds.com
+- 😄 Pronouns: she/her
+
+> I love data, open science and reproducible data pipelines. A little bit too much. 
+
+I run an exciting new project called "Graph | Plot | Chart | Data Story"
+
+![](gpcds-labelled-idents.png)
+
