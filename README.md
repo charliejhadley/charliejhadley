@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey! I'm Charlie 🙋‍♀️
+
+I love data, open science and reproducible data pipelines. A little bit too much.
+
+> I run Graph | Plot | Chart | Data Story
+
 
 <!--
 **charliejhadley/charliejhadley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
