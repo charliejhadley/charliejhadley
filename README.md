@@ -2,7 +2,7 @@
 
 ![](gpcds-wide-banner.png)
 
-- 🔭 I’m currently working on a new project [Graph | Plot | Chart | Data Story](www.gpcds.com)
+- 🔭 I’m currently working on a new project [Graph | Plot | Chart | Data Story](https://www.gpcds.com)
 - 💬 Ask me about R, Shiny, Quarto
 - 📫 How to reach me: hello@gpcds.com
 - 😄 Pronouns: she/her
